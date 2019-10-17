@@ -26,7 +26,6 @@ GZD - Gives information about participant's gaze like his/her pupil size distanc
    
    ![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Data/ssevd.PNG)
    
-   ![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Data/ssevd2.PNG)
    
   <li>p5.graphFXD
  
