@@ -23,8 +23,16 @@ GZD - Gives information about participant's gaze like his/her pupil size distanc
 ### Files:
 <ul>
   <li>p5.graphEVD
+   
+   ![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Data/ssevd.PNG)
+   
+   ![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Data/ssevd2.PNG)
   <li>p5.graphFXD
+ 
+   ![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Data/ssfxd.PNG)
   <li>p5.graphGZD
+ 
+   ![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/Data/ssgzd.PNG)
   <li>p5.treeEVD
   <li>p5.treeFXD
   <li>p5.treeGZD
@@ -34,14 +42,41 @@ GZD - Gives information about participant's gaze like his/her pupil size distanc
 ## Output Files
 
 Output files are HTML pages showing the visualization of gaze of participant according to time interval.
+## Files
 
-
-
+<ul>
+ <li>graph-visualization.HTML
+ <li>tree_visualization.HTML
+</ul>
+ 
 ## Design
+
 
 ## Technology Used
 
+We used python for visualization. Python was chosen since it has modules like pandas, numpy which can be used for data manipulation i.e data preprocessing. Even, it is easy to do analysis of data by visualiznig it using module name plotly. So the list of modules used are:
+<ol>
+ <li> Plotly
+ <li> Pandas
+ <li> Numpy
+</ol>
 
 ## Team Members
 
+<ul>
+ <li> Adheep Shetty
+ <li> Saumya Shrivastav
+ <li> Sylviana Mahaut
+ <li> Kai 
+ <li> Pamela Regudo
+</ul>
+ 
 ## Screenshot of Visualizations
+
+### Graph Visualization
+
+![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/graph-viz.PNG)
+
+### Tree Visualization
+
+![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/tree-viz.PNG)
