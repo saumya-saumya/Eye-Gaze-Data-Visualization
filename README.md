@@ -74,6 +74,26 @@ We used python for visualization. Python was chosen since it has modules like pa
  <li> Pamela Regudo
 </ul>
  
+ 
+## Challenges Faced
+
+### Challenge #1:
+
+The time slide duration was more hence more points on the screen at this point hence we have to increase this duration or frames to visualize the pattern and points more precisely.
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=k8maCYvtNA0&feature=youtu.be)]
+
+### Challenge #2:
+
+The challenge faced during Eye Gaze dataset visualization was initially with the slides the traces were added but older traces were not removed. Therefore the screen got busier as the time passed.
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=_O_Qppccgu0&feature=youtu.be)]
+
+### Challenge #3:
+
+The challenge we faced when we were trying to find the scanpath over the time is that the Screen appeared scribbled.
+
+
 ## Screenshot of Visualizations
 
 ### Graph Visualization
