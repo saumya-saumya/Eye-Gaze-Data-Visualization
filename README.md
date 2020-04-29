@@ -53,7 +53,7 @@ Output files are HTML pages showing the visualization of gaze of participant acc
  
 ## Design
 
-![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/RoughPlan.PNG)
+![alt text](https://github.com/saumya-saumya/Eye-Gaze-Data-Visualization/blob/master/RoughPlan.png)
 
 ## Technology Used
 
@@ -62,13 +62,14 @@ We used python for visualization. Python was chosen since it has modules like pa
  <li> Plotly
  <li> Pandas
  <li> Numpy
+ <li> D3.js
 </ol>
 
 ## Team Members
 
 <ul>
+ <li> Saumya Saumya 
  <li> Adheep Shetty
- <li> Saumya Shrivastav
  <li> Sylviana Mahaut
  <li> Kai 
  <li> Pamela Regudo
@@ -81,14 +82,14 @@ We used python for visualization. Python was chosen since it has modules like pa
 
 The time slide duration was more hence more points on the screen at this point hence we have to increase this duration or frames to visualize the pattern and points more precisely.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=k8maCYvtNA0&feature=youtu.be)
+[![IMAGE ALT TEXT](https://github.com/saumya-saumya/Eye-Gaze-Data-Visualization/blob/master/Challenges/challenge1img.PNG)](https://www.youtube.com/watch?v=k8maCYvtNA0&feature=youtu.be)
 
 
 ### Challenge #2:
 
 The challenge faced during Eye Gaze dataset visualization was initially with the slides the traces were added but older traces were not removed. Therefore the screen got busier as the time passed.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=_O_Qppccgu0&feature=youtu.be)
+[![IMAGE ALT TEXT](https://github.com/saumya-saumya/Eye-Gaze-Data-Visualization/blob/master/Challenges/challenge2img.PNG)](https://www.youtube.com/watch?v=_O_Qppccgu0&feature=youtu.be)
 
 
 ### Challenge #3:
@@ -100,8 +101,8 @@ The challenge we faced when we were trying to find the scanpath over the time is
 
 ### Graph Visualization
 
-![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/graph-viz.PNG)
+![alt text](https://github.com/saumya-saumya/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/graph-viz.PNG)
 
 ### Tree Visualization
 
-![alt text](https://github.com/adheepshetty/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/tree-viz.PNG)
+![alt text](https://github.com/saumya-saumya/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/tree-viz.PNG)
