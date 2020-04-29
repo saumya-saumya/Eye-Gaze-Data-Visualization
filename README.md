@@ -106,3 +106,11 @@ The challenge we faced when we were trying to find the scanpath over the time is
 ### Tree Visualization
 
 ![alt text](https://github.com/saumya-saumya/Eye-Gaze-Data-Visualization/blob/master/HTML%20pages/tree-viz.PNG)
+
+
+
+
+## Second Goal
+![ALT TEXT](https://github.com/saumya-saumya/Data-Visualization-Assignment2/blob/master/Capture.JPG)
+
+#### Link to Another Directory (https://github.com/saumya-saumya/Data-Visualization-Assignment2)
